@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BeardyMike.
-- 👀 I’m interested in learning how to code so that I can make easy and simple tools to improve my workflow
-- 🌱 I’m currently learning AutoHotKey and Python
+- 👀 I’m interested in learning more about PBX Software.
+- 🌱 I’m currently learning AutoHotKey, C++, Bash, and Python.
