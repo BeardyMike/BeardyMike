@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BeardyMike.
 - 👀 I’m interested in learning more about PBX Software.
-- 🌱 I’m currently learning AutoHotKey, C++, Bash, and Python.
+- 🌱 I’m currently learning AutoHotKey, Python, Bash, and C++.
